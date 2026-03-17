@@ -41,7 +41,7 @@ If you include screenshots, store them in the **assets folder** and reference th
 
 Example:
 
-![Certificate Output](assets/certificate-output.png)
+![Certificate Output](assets/keypair-generation.png)
 
 ---
 
